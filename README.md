@@ -63,4 +63,4 @@ streamlit run app.py
 ## Built with
 Python · pandas · scikit-learn · XGBoost · NLTK · TextBlob · Gensim · Streamlit · Plotly · Matplotlib · Seaborn · Jupyter
 
-**Author:** Rauna NP Nghidipaa · [LinkedIn](https://www.linkedin.com/in/raunanp)
+**Author:** Rauna NP Nghidipaa · [LinkedIn]([https://www.linkedin.com/in/raunanp](https://www.linkedin.com/in/rauna-nghidipaa-88b806151/?isSelfProfile=true))
